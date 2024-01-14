@@ -25,5 +25,5 @@ def calculator():
     # Print the result
     print("Result: {:.2f}".format(result))
 
-#Call the calculator function
+#Call the calculator function 
 calculator()
